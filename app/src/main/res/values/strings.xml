@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">This is Egypt</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="city_cairo">Cairo</string>
+    <string name="city_alex">Alexandria</string>
+    <string name="city_luxor_aswan">Luxor</string>
+    <string name="city_aswan">Aswan</string>
+    <string name="city_sharm">Sharm El-Shiekh</string>
+    <string name="alex_title_lighth">Lighthouse of Alexandria</string>
+    <string name="alex_subtitle_lighth">The Lighthouse of Alexandria, sometimes called the Pharos of Alexandria, was a lighthouse built by the Ptolemaic Kingdom, during the reign of Ptolemy II Philadelphus, which has been estimated to be 100 metres in overall height.</string>
+    <string name="alex_title_citadel">Citadel of Qaitbay</string>
+    <string name="alex_subtitle_citadel">The Citadel of Qaitbay is a 15th-century defensive fortress located on the Mediterranean sea coast, in Alexandria, Egypt. It was established in 1477 AD by Sultan Al-Ashraf Sayf al-Din Qa\'it Bay. The Citadel is situated on the eastern side of the northern tip of Pharos Island at the mouth of the Eastern Harbour.</string>
+    <string name="alex_title_library">Bibliotheca Alexandrina</string>
+    <string name="alex_subtitle_library">The Great Library of Alexandria in Alexandria, Egypt, was one of the largest and most significant libraries of the ancient world. The Library was part of a larger research institution called the Mouseion, which was dedicated to the Muses, the nine goddesses of the arts.</string>
+    <string name="alex_title_montaza">Montaza Palace</string>
+    <string name="alex_subtitle_montaza">Montaza Palace is a palace, museum and extensive gardens in the Montaza district of Alexandria, Egypt. It was built on a low plateau east of central Alexandria overlooking a beach on the Mediterranean Sea</string>
+    <string name="aswan_title_museum">Nubian Museum</string>
+    <string name="aswan_subtitle_museum">The Nubian Museum is an archaeological museum located in Aswan, Upper Egypt. It was built to a design by architect Mahmoud El-Hakim for an estimated construction cost of LE 75 million.</string>
+    <string name="aswan_title_eleph">Elephantine</string>
+    <string name="aswan_subtitle_eleph">Elephantine is an island on the Nile, forming part of the city of Aswan in Upper Egypt. There are archaeological sites on the island.</string>
+    <string name="cairo_title_giza">Giza Necropolis</string>
+    <string name="cairo_subtitle_giza">The Giza pyramid complex is an archaeological site on the Giza Plateau, on the outskirts of Cairo, Egypt. It includes the three Great Pyramids, the Great Sphinx, several cemeteries, a workers\' village and an industrial complex.</string>
+    <string name="cairo_title_museum">Egyptian Museum</string>
+    <string name="cairo_subtitle_museum">The Museum of Egyptian Antiquities, known commonly as the Egyptian Museum or Museum of Cairo, in Cairo, Egypt, is home to an extensive collection of ancient Egyptian antiquities. It has 120,000 items, with a representative amount on display, the remainder in storerooms.</string>
+    <string name="cairo_title_tower">Cairo Tower</string>
+    <string name="cairo_subtitle_tower">The Cairo Tower is a free-standing concrete tower in Cairo, Egypt. At 187 m, it has been the tallest structure in Egypt and North Africa for about 50 years. It was the tallest structure in Africa for ten years until 1971, when it was surpassed by Hillbrow Tower in South Africa.</string>
+    <string name="cairo_title_church">The Hanging Church</string>
+    <string name="cairo_subtitle_church">Saint Virgin Mary\'s Coptic Orthodox Church also known as The Hanging Church is one of the oldest churches in Egypt and the history of a church on this site dates to the third century. It belongs to the Coptic Orthodox Church of Alexandria.</string>
+    <string name="luxor_title_kings">Valley of the Kings</string>
+    <string name="luxor_subtitle_kings">The Valley of the Kings, also known as the Valley of the Gates of the Kings, is a valley in Egypt The valley stands on the west bank of the Nile, opposite Thebes, within the heart of the Theban Necropolis. The wadi consists of two valleys, East Valley and West Valley.</string>
+    <string name="luxor_title_karnak">Karnak</string>
+    <string name="luxor_subtitle_karnak">The Karnak Temple Complex, commonly known as Karnak, comprises a vast mix of decayed temples, chapels, pylons, and other buildings near Luxor, in Egypt.</string>
+    <string name="luxor_title_temple">Luxor Temple</string>
+    <string name="luxor_subtitle_temple">Luxor Temple is a large Ancient Egyptian temple complex located on the east bank of the Nile River in the city today known as Luxor and was constructed approximately 1400 BCE. In the Egyptian language it is known as ipet resyt, \"the southern sanctuary\".</string>
+    <string name="luxor_title_queens">Valley of the Queens</string>
+    <string name="luxor_subtitle_queens">The Valley of the Queens is a site in Egypt, where wives of Pharaohs were buried in ancient times. In ancient times, it was known as Ta-Set-Neferu, meaning –\"the place of beauty\".</string>
+    <string name="shram_title_bay">Naama Bay</string>
+    <string name="shram_subtitle_bay">Naama Bay is a natural bay in Sharm El Sheikh resort and is considered the main hub for tourists in the city, as it is famous for its cafes, restaurants, hotels, and bazaars.</string>
+    <string name="shram_title_rasm">Ras Muhammad National Park</string>
+    <string name="shram_subtitle_rasm">Ras Mohammad is a national park in Egypt at the southern extreme of the Sinai Peninsula, overlooking the Gulf of Suez on the west and the Gulf of Aqaba to the east.</string>
+    <string name="shram_title_tiran">Tiran Island</string>
+    <string name="shram_subtitle_tiran">Tiran, is an island within the maritime borders of Saudi Arabia that was administered by Egypt in the past. However, sovereignty of the two Red Sea islands, Tiran and Sanafir, was ceded officially to Saudi Arabia as part of a maritime borders agreement between Egypt and Saudi Arabia.</string>
+    <string name="shram_title_bhole">Blue Hole</string>
+    <string name="shram_subtitle_bhole">The Blue Hole is a diving location on the southeast Sinai, a few kilometres north of Dahab, Egypt on the coast of the Red Sea. The Blue Hole is a submarine sinkhole, with a maximum depth within the hole of just over 100 m.</string>
+    <string name="item_btn_more_info">More Info</string>
+    <string name="toolbar_btn_info">Info</string>
+    <string name="toast_info">Information courtesy of Wikipedia and Google Places...</string>
+</resources>
