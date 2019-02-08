@@ -1,6 +1,6 @@
 
 # ThisIsEgypt - Tour Guide App
-### 5th Project in Udacity's Android Basics Nanoderee
+### 5th Project in Udacity's Android Basics Nanodegree
 ### Lesson: Multi-screen Apps
 -----
 
